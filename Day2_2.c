@@ -14,8 +14,6 @@ int main() {
     printf("The area of the circle is %.2f\n", area);
     printf("The circumference of the circle is %.2f\n", circumference);
 
-    getchar();
-    getchar();
-
     return 0;
 }
+
