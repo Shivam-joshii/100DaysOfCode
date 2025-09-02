@@ -26,9 +26,6 @@ int main() {
         printf("Division by zero is not allowed.\n");
     }
 
-
-    getchar();
-    getchar();
-
     return 0;
 }
+
