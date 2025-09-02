@@ -10,8 +10,7 @@ int main() {
 
     printf("%.2f Celsius is equal to %.2f Fahrenheit\n", celsius, fahrenheit);
 
-    getchar();
-    getchar();
-
+    
     return 0;
 }
+
