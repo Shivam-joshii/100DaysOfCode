@@ -15,8 +15,7 @@ int main() {
     printf("The area of the rectangle is %.2f\n", area);
     printf("The perimeter of the rectangle is %.2f\n", perimeter);
 
-    getchar();
-    getchar();
-
+    
     return 0;
+
 }
