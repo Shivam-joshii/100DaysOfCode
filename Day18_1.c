@@ -1,3 +1,4 @@
+// write a program to find factors of a number.
 #include<stdio.h>
 int main()
 {
