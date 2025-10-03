@@ -13,8 +13,9 @@ int main()
           product = product*i;
     }
     
-    printf("The Sum of N even numbers = %d", product);
+    printf("The factorial is = %d", product);
     
     return 0;
+
 
 }
